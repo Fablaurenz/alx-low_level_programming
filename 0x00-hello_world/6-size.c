@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Print size of characters
- * Return: Always 0 (Success)
+* main - Print size of characters
+* Return: Always 0 (Success)
 */
 int main(void)
 {
