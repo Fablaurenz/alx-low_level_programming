@@ -12,13 +12,13 @@ int main(void)
 	i = e = g = h = 48;
 	while (h < 58)
 	{
-		g = 48
+		g = 48;
 		while (g < 58)
 		{
-			e = 48
+			e = 48;
 			while (e < 58)
 			{
-				i = 48
+				i = 48;
 				while (i < 58)
 				{
 					op1 = (h * 10) + g;
